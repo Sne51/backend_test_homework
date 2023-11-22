@@ -1,0 +1,5 @@
+colorama==0.4.6
+emoji==2.8.0
+prettytable==3.9.0
+termcolor==2.3.0
+wcwidth==0.2.12
